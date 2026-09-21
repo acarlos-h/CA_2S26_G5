@@ -130,8 +130,8 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 **Video de preparación:**
  https://youtu.be/AKLtEoy2xQc
 
- **Video de presentación**
-  _
+ **Video de presentación:**
+  https://youtu.be/6jk626HV8VA
 
 **Tabla de participaciones**
 
