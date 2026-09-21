@@ -138,8 +138,8 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 
 | Integrante     | Aporte                                                           | Porcentaje |
 | -------------- | ---------------------------------------------------------------- | ---------- |
-| Carlos Hidalgo |                                                                  | 20%        |
-| Naomi Axpuac   | Explicación del tema de ciclos, diseño de actividades y objetivos.| 20%        |
+| Carlos Hidalgo | Explicación de Tomas de decisiones complejas, organización de grupo, lista preliminar de subtemas a desarrollar y descripcion general del tema y sub temas elegidos Edición de video y audio.| 20%        |
+| Naomi Axpuac   | Explicación del tema de ciclos, grabación de video, diseño de actividades y objetivos.| 20%        |
 | Aimar Barrios  |                                                                  | 20%        |
 | Dennis Payes   | Conseguir el lugar (Colegio) en el que se dió la capacitación. Participación en Capacitación.| 20%        |
 | Hassan López   | Presentación del grupo, subida de videos, obtención de cañonera. | 20%        |
