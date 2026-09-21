@@ -127,6 +127,11 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 ## Conclusiones  
 
 ## Anexos  
+**Video de preparación:**
+ https://youtu.be/AKLtEoy2xQc
+
+ **Video de presentación**
+  _
 
 **Tabla de participaciones**
 
