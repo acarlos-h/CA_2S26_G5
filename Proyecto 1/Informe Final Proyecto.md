@@ -112,6 +112,27 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 
 
 ## Autoevaluación de la conferencia por medio de un FODA  
+Fortalezas
+Claridad en la exposición de los conceptos, logrando conectar de manera efectiva la teoría de las estructuras de control con situaciones cotidianas y fáciles de entender para la audiencia.
+
+Dominio del tema y seguridad al momento de explicar y responder dudas relacionadas con el perfil del público.
+
+Buena gestión del tiempo asignado para la sección, manteniendo un ritmo dinámico y constante.
+
+Oportunidades
+Incorporar más recursos visuales interactivos (como encuestas en vivo o dinámicas rápidas) para aumentar el nivel de participación de la audiencia desde el inicio.
+
+Profundizar en ejemplos específicos solicitados por los asistentes durante la sesión de preguntas y respuestas.
+
+Debilidades
+Al inicio de la presentación, los nervios afectaron ligeramente la fluidez de la introducción antes de entrar de lleno en los ejemplos principales.
+
+Dependencia moderada de las notas de apoyo visuales en momentos clave de la transición entre subtemas.
+
+Amenazas
+Posibles distracciones del entorno o fallas técnicas imprevistas que pudieran desconectar a la audiencia del hilo conductor de la analogía cotidiana.
+
+Variabilidad en el nivel de atención o fatiga del público conforme avanzaba la duración total de la capacitación.
 
 ## FODA por integrante  
 
