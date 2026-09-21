@@ -1,6 +1,8 @@
 # Planificación de Capacitación
 
-## Tema elegido a realizar en la capacitación
+## Tema elegido a realizar en la capacitación  
+
+# Lógica de programación (Las estructuras de control aplicadas a la vida cotidiana)  
 
 ## Una lista preliminar de subtemas a desarrollar
 
