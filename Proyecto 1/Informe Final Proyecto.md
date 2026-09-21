@@ -113,8 +113,9 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 
 ## Autoevaluación de la conferencia por medio de un FODA  
 
-* **FODA 1 (Carlos):**
 ## FODA por integrante  
+
+* **FODA 1 (Carlos):**
 
 | **FORTALEZAS** | **OPORTUNIDADES** |
 | :--- | :--- |
