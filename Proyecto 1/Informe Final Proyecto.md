@@ -139,7 +139,7 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 | Integrante     | Aporte                                                           | Porcentaje |
 | -------------- | ---------------------------------------------------------------- | ---------- |
 | Carlos Hidalgo |                                                                  | 20%        |
-| Naomi Axpuac   | Explicación del tema de ciclos.                                  | 20%        |
+| Naomi Axpuac   | Explicación del tema de ciclos, diseño de actividades y objetivos.| 20%        |
 | Aimar Barrios  |                                                                  | 20%        |
 | Dennis Payes   | Conseguir el lugar (Colegio) en el que se dió la capacitación. Participación en Capacitación.| 20%        |
 | Hassan López   | Presentación del grupo, subida de videos, obtención de cañonera. | 20%        |
