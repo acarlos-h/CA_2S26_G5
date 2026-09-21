@@ -145,6 +145,15 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 | **DEBILIDADES** | **AMENAZAS** |
 | **1. Preferencia por el guion estructurado:** Me siento muy cómoda cuando todo sigue la estructura que planifiqué, por lo que las desviaciones inesperadas en la dinámica pueden generarme un momento de duda antes de redirigir la sesión.<br><br>**2. Nerviosismo inicial:** Suelo sentir tensión durante los primeros minutos de la presentación, lo que puede llevarme a hablar más rápido de lo planificado. | **1. Apatía o timidez de la audiencia:** Encontrarme con un grupo reservado o desmotivado que muestre resistencia a participar o responder las preguntas.<br><br>**2. Distractores o imprevistos de horario:** Ruidos externos en el colegio o retrasos en la agenda que reduzcan el tiempo total de mi exposición. |
 
+* **FODA 5 (Aimar):**
+
+| **FORTALEZAS** | **DEBILIDADES** |
+|---|---|
+| **1. Dominio lógico y práctico de la programación.** Conozco a fondo cómo funciona cada parte de lo presentado y puedo explicarlo con mis palabras y experiencia. Al tener a cargo el cierre, le di un enfoque menos técnico y más amplio para todo el público.<br><br>**2. Carisma y adaptación.** Hablar en público es un ambiente motivador para mí; ser escuchado me impulsa a dar lo mejor para que entiendan el tema. Me adapto rápido a cualquier grupo o entorno y logro que todos se sientan cómodos. | **1. Desarrollo del diálogo y manejo de la atención.** Me costó desarrollar más mi discurso: hubo ejemplos algo redundantes y palabras de relleno que usé para no perder la atención, y aun así me costó mantener el foco del público.<br><br>**2. Falta de confianza en las dinámicas.** Me gusta ser animado en las charlas, pero sentí que otros integrantes tomaron el mismo rol, y no pude participar más en las dinámicas sin interrumpir. |
+
+| **OPORTUNIDADES** | **AMENAZAS** |
+|---|---|
+| **1. Cañonera y presentación bien preparada.** El proyector permitió desenvolverme sin leer, con mensajes claros y palabras preparadas que ayudaron a no perder el enfoque al improvisar. El curso de IPC y la base de Matemática para Computación (lógica booleana, pseudocódigo) me ayudaron a explicar mejor.<br><br>**2. Un público atento.** La audiencia fue muy receptiva. En mi parte dejé el lenguaje técnico y los llevé a lo que hacen en su día a día, generando buena conexión y comprensión de qué es la programación. | **1. Nervios al inicio.** Al comenzar sentí nervios y olvidé por momentos los conceptos básicos, pero poco a poco me adapté y pude expresarme mejor.<br><br>**2. Falta de ejemplos cotidianos adicionales.** Quería mencionar más ejemplos de programación en la vida diaria, pero pensé que la exposición llevaría más tiempo; al final, improvisar o relacionar ejemplos nuevos me costó. |
 ## FODA como grupo  
 | **FORTALEZAS** | **OPORTUNIDADES**  |
 | :--- | :--- |
