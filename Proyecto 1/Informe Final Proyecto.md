@@ -166,25 +166,16 @@ Variabilidad en el nivel de atención o fatiga del público conforme avanzaba la
 | **DEBILIDADES** | **AMENAZAS** |
 | **1. Preferencia por el guion estructurado:** Me siento muy cómoda cuando todo sigue la estructura que planifiqué, por lo que las desviaciones inesperadas en la dinámica pueden generarme un momento de duda antes de redirigir la sesión.<br><br>**2. Nerviosismo inicial:** Suelo sentir tensión durante los primeros minutos de la presentación, lo que puede llevarme a hablar más rápido de lo planificado. | **1. Apatía o timidez de la audiencia:** Encontrarme con un grupo reservado o desmotivado que muestre resistencia a participar o responder las preguntas.<br><br>**2. Distractores o imprevistos de horario:** Ruidos externos en el colegio o retrasos en la agenda que reduzcan el tiempo total de mi exposición. |
 
-## FODA 4 - Dennis
+* FODA 2 (Dennis):
 
-### Fortalezas
-* **Claridad expositiva:** Excelente vinculación entre la teoría de las estructuras de control y ejemplos cotidianos de fácil comprensión.
-* **Dominio del tema:** Seguridad y fluidez al explicar conceptos y responder preguntas de la audiencia.
-* **Gestión del tiempo:** Cumplimiento estricto de los tiempos asignados para mantener un ritmo dinámico.
-
-### Oportunidades
-* **Interactividad:** Incorporar recursos visuales en vivo (encuestas o dinámicas rápidas) para elevar la participación del público.
-* **Profundización:** Ampliar los casos de estudio específicos solicitados por los asistentes durante la sesión.
-
-### Debilidades
-* **Control de nervios:** Leve rigidez al inicio de la presentación antes de afianzar la confianza con los ejemplos principales.
-* **Apoyo visual:** Cierta dependencia de las notas de apoyo durante las transiciones entre subtemas.
-
-### Amenazas
-* **Factores externos:** Riesgo de distracciones ambientales o fallas técnicas repentinas que rompan el hilo conductor.
-* **Fatiga de la audiencia:** Variabilidad en el nivel de atención del público conforme avanza el tiempo total de la sesión.
-
+| FORTALEZAS | OPORTUNIDADES |
+| :--- | :--- |
+| **1. Claridad expositiva:** Excelente vinculación entre la teoría de las estructuras de control y ejemplos cotidianos de fácil comprensión. | **1. Interactividad:** Incorporar recursos visuales en vivo (encuestas o dinámicas rápidas) para elevar la participación del público. |
+| **2. Dominio del tema:** Seguridad y fluidez al explicar conceptos y responder preguntas de la audiencia. | **2. Profundización:** Ampliar los casos de estudio específicos solicitados por los asistentes durante la sesión. |
+| **3. Gestión del tiempo:** Cumplimiento estricto de los tiempos asignados para mantener un ritmo dinámico. | |
+| **DEBILIDADES** | **AMENAZAS** |
+| **1. Control de nervios:** Leve rigidez al inicio de la presentación antes de afianzar la confianza con los ejemplos principales. | **1. Factores externos:** Riesgo de distracciones ambientales o fallas técnicas repentinas que rompan el hilo conductor. |
+| **2. Apoyo visual:** Cierta dependencia de las notas de apoyo durante las transiciones entre subtemas. | **2. Fatiga de la audiencia:** Variabilidad en el nivel de atención del público conforme avanza el tiempo total de la sesión. |
 * **FODA 5 (Aimar):**
 
 | **FORTALEZAS** | **OPORTUNIDADES** |
