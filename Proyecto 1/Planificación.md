@@ -214,6 +214,7 @@ Los participantes responden con dedos: 1 = secuencia, 2 = condicional, 3 = bucle
 
 ### 8.3 Preguntas para la audiencia Y PREMIOS
 - SI RESPONDEN CORRECTAMENTE LOS ESTUDIANTES Y COLABORAN RECIBEN PREMIOS
+
 | Responsable | Pregunta |
 |---|---|
 | Hassan | ¿La toma de decisiones simple requiere que una condición sea verdadera para cumplirse, o puede no serlo y cumplirse? |
