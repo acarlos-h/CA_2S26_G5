@@ -147,7 +147,32 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 
 ## FODA como grupo  
 
-## Conclusiones  
+# Conclusiones
+
+## Conclusión general
+
+La capacitación **"Lógica de programación: estructuras de control aplicadas a la vida cotidiana"** permitió cumplir el objetivo de acercar a jóvenes de 15 a 18 años a los conceptos fundamentales de la programación, sin recurrir a sintaxis compleja. Al relacionar las estructuras de control con situaciones que ellos viven todos los días (llevar sombrilla si llueve, repasar apuntes varias veces, atender el timbre mientras juegan), se comprobó que la programación no es un conocimiento exclusivo de unos cuantos, sino una forma ordenada de pensar y resolver problemas que ya usamos sin darnos cuenta.
+
+## Conclusiones por objetivo específico
+
+**1. Explicar el funcionamiento de las estructuras de control (secuencia, selección e iteración) mediante ejemplos cotidianos.**
+Las analogías utilizadas (la pizza para el `do-while`, la máquina de café para las funciones, el cuerpo humano para la modularidad, el cuaderno y el pizarrón para el ámbito) facilitaron que los estudiantes entendieran conceptos como los condicionales, los bucles, los eventos y las funciones sin necesidad de escribir código. Se confirmó que asociar cada estructura con una pregunta simple (¿cuántas veces repito?, ¿hasta cuándo repito?, ¿qué valor tiene la variable?) ayuda a distinguir cuándo usar cada una.
+
+**2. Ejercitar el pensamiento lógico y la toma de decisiones mediante actividades colaborativas desde los escritorios.**
+Dinámicas como "El Robot en su Asiento" y "Encuentro tu número" mostraron que un algoritmo necesita pasos precisos, ordenados y sin ambigüedad, y que las computadoras no tienen sentido común. La participación activa de los estudiantes demostró que este tipo de actividades fomenta la comunicación, el trabajo en conjunto y el razonamiento lógico dentro de un aula ordenada.
+
+**3. Verificar la comprensión mediante preguntas directas de los expositores.**
+Las preguntas asignadas a cada integrante permitieron evaluar si los estudiantes podían argumentar con sus propias palabras cuándo usar `if` o `switch`, `for` o `while`, y `while` o `do-while`. Las respuestas y el interés mostrado durante y después de la charla indican que los contenidos fueron comprendidos y que la metodología resultó adecuada para la edad de la audiencia.
+
+## Conclusión sobre el trabajo en equipo y la experiencia
+
+Este proyecto sobre la programación en la vida cotidiana fue un trabajo laborioso, sobre todo en la organización: buscar el lugar, coordinar reuniones por Meet y mantener la puntualidad para trabajar en conjunto. Aun así, fue un gusto trabajar con este equipo, que demostró gran coordinación, apego y buena comunicación. Cada integrante asumió un rol específico y lo cumplió con detalle, empatía y respeto, tanto en el trabajo como en la convivencia.
+
+Agradecemos a la institución y a los estudiantes por dedicarnos su tiempo y por su hospitalidad. Los jóvenes fueron muy respetuosos y con ganas de aprender; su interés se notó durante toda la charla y no solo al final. Tanto los catedráticos como la audiencia expresaron que les gustaría que volviéramos en una próxima oportunidad, lo cual refleja que la experiencia fue provechosa para ambas partes.
+
+## Aspectos a mejorar
+
+Como oportunidad de mejora, se recomienda **organizarse con uno o dos días de anticipación** para ensayar y cerrar los detalles finales. De esta forma se reduce el estrés de última hora, ya que el trabajo puede extenderse más de lo previsto. También sería útil definir desde el inicio los tiempos de cada integrante para que la exposición se mantenga dentro de los 60 minutos. 
 
 ## Anexos  
 **Video de preparación:**
@@ -167,7 +192,7 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 | -------------- | ---------------------------------------------------------------- | ---------- |
 | Carlos Hidalgo | Explicación de Tomas de decisiones complejas, organización de grupo, lista preliminar de subtemas a desarrollar y descripcion general del tema y sub temas elegidos Edición de video y audio.| 20%        |
 | Naomi Axpuac   | Explicación del tema de ciclos, grabación de video, diseño de actividades y objetivos.| 20%        |
-| Aimar Barrios  |                                                                  | 20%        |
+| Aimar Barrios  |EXPlicacion de Funciones, modularidad,scope, ejemplo cotidiano de programación y una charla final. +Edición de las documentaciones  por partes| 20%        |
 | Dennis Payes   | Conseguir el lugar (Colegio) en el que se dió la capacitación. Participación en Capacitación.| 20%        |
 | Hassan López   | Presentación del grupo, subida de videos, obtención de cañonera. | 20%        |
 
