@@ -29,6 +29,14 @@ Capacitar a jóvenes de 15 a 18 años en los conceptos fundamentales de la lógi
 
 ## Anexos  
 
-Deben incluir todo el material utilizado en la sección de anexos de lo contrario no se tomará como válido.
-Tabla con porcentaje de participación de cada integrante
+** Tabla de participaciones **
+
+
+| Integrante     | Aporte                                                           | Porcentaje |
+| -------------- | ---------------------------------------------------------------- | ---------- |
+| Carlos Hidalgo |                                                                  | 20%        |
+| Naomi Axpuac   |                                                                  | 20%        |
+| Aimar Barrios  |                                                                  | 20%        |
+| Dennis Payes   |                                                                  | 20%        |
+| Hassan López   | Presentación del grupo, subida de videos, obtención de cañonera. | 20%        |
 
