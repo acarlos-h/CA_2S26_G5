@@ -3,7 +3,6 @@
 ## Portada  
 
 ## Introducción  
-## Introducción  
 La lógica de programación suele imaginarse como un tema complejo, lleno de códigos indescifrables y matemáticas avanzadas. Sin embargo, en su nivel más básico, no es más que una forma ordenada de pensar y resolver problemas. Todos los días, de forma casi automática, las personas seguimos pasos lógicos para tomar decisiones o cumplir con nuestras rutinas: desde decidir qué ruta tomar para ir a estudiar, hasta reaccionar cuando algo no sale como esperábamos.
 
 La diferencia principal es que los seres humanos usamos la intuición y el sentido común, mientras que las computadoras necesitan instrucciones exactas, organizadas y sin espacio a la duda. Aquí es donde entran las estructuras de control: la Secuencia (seguir pasos ordenados), la Selección (tomar decisiones mediante reglas de "si ocurre esto, hago esto otro") y la Iteración (repetir una acción hasta lograr un objetivo). Estas reglas son los cimientos con los que se construye cualquier programa, juego o aplicación.
