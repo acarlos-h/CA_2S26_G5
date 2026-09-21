@@ -146,6 +146,12 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 | **1. Preferencia por el guion estructurado:** Me siento muy cómoda cuando todo sigue la estructura que planifiqué, por lo que las desviaciones inesperadas en la dinámica pueden generarme un momento de duda antes de redirigir la sesión.<br><br>**2. Nerviosismo inicial:** Suelo sentir tensión durante los primeros minutos de la presentación, lo que puede llevarme a hablar más rápido de lo planificado. | **1. Apatía o timidez de la audiencia:** Encontrarme con un grupo reservado o desmotivado que muestre resistencia a participar o responder las preguntas.<br><br>**2. Distractores o imprevistos de horario:** Ruidos externos en el colegio o retrasos en la agenda que reduzcan el tiempo total de mi exposición. |
 
 ## FODA como grupo  
+| **FORTALEZAS** | **OPORTUNIDADES**  |
+| :--- | :--- |
+| <br><br> | <br><br> |
+| **DEBILIDADES** | **AMENAZAS** |
+| <br><br> | <br><br> |
+
 
 # Conclusiones
 
