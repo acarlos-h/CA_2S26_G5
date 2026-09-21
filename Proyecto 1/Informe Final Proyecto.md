@@ -113,7 +113,18 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 
 ## Autoevaluación de la conferencia por medio de un FODA  
 
+* **FODA 1 (Carlos):**
 ## FODA por integrante  
+
+| **FORTALEZAS** | **OPORTUNIDADES** |
+| :--- | :--- |
+| **1. Dominio técnico y estructurado:** Comprendo a profundidad la evolución lógica desde las decisiones binarias hasta la jerarquía de condicionales anidadas y la selección múltiple con Switch/Case. | **1. Didáctica cercana al estudiante:** Puedo conectar conceptos abstractos de ingeniería con situaciones cotidianas (Menús interactivos, Diferentes decisiones), facilitando la comprensión de la audiencia. |
+| **2. Enfoque preventivo de malas prácticas:** Identifico claramente los riesgos de un código muy extenso que se podría resumir con otras condicionales y el problema del sobreprocesamiento por el tipo de estructura extensa que produce retrasos en el procesamiento, lo que me permite diseñar soluciones limpias y mantenibles. | **2. Optimización y rendimiento:** Tengo la capacidad de explicar las ventajas de arquitectura, como la eficiencia de las tablas de saltos frente al costo computacional lineal de las cadenas largas de if-else. |
+| **DEBILIDADES** | **AMENAZAS** |
+| **1. Densidad conceptual:** La transición entre múltiples capas de validación lógica y la explicación de conceptos avanzados (como la complejidad temporal en cadenas de if-else) puede volverse compleja si no se resume visualmente. | **1. Sobrecarga de información en la audiencia:** Que la cantidad de reglas, anatomías y excepciones técnicas (como el uso obligatorio del break) saturen el flujo de la exposición. |
+| **2. Rigidez en la elección de herramientas:** Explicar con precisión cuándo usar un Switch (valores discretos) frente a un If (rangos de desigualdad) requiere una explicación muy cuidadosa para evitar confusiones en la audiencia. | **2. Confusión en ejemplos anidados:** Un tropiezo al explicar las múltiples barreras de validación en un ejemplo real (como el acceso a laboratorios) podría enredar temporalmente la comprensión de las condicionales jerárquicas. |  
+
+
 * **FODA 3 (Naomi):**
 
 | **FORTALEZAS** | **OPORTUNIDADES**  |
