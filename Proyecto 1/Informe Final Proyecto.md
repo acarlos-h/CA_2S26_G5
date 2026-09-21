@@ -156,6 +156,10 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
  **Video de presentación:**
   https://youtu.be/6jk626HV8VA
 
+  **Diapositivas usadas en la presentación:**
+   https://www.canva.com/design/DAHVZ-SbUzE/SyQ_2_H7LG5AAOBXsNvNLw/edit
+
+
 **Tabla de participaciones**
 
 
