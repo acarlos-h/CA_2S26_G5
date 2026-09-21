@@ -29,7 +29,7 @@ Capacitar a jóvenes de 15 a 18 años en los conceptos fundamentales de la lógi
 
 ## Anexos  
 
-** Tabla de participaciones **
+**Tabla de participaciones**
 
 
 | Integrante     | Aporte                                                           | Porcentaje |
