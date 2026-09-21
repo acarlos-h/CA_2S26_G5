@@ -41,8 +41,46 @@ Manejo de Errores y Excepciones
 
 
 ## Perfil de la audiencia y estrategia de adaptación del mensaje  
+Perfil de la Audiencia
+Nivel de conocimiento previo: Principiante / Básico. Personas sin experiencia previa en programación o con un acercamiento mínimo a la lógica computacional.
 
-Todo el material utilizado en el video de la planificación el material que no se encuentre en el documento no será tomado como válido
+Características demográficas y profesionales: Jóvenes, estudiantes o profesionales de diversas áreas no necesariamente técnicas que buscan comprender cómo funcionan los procesos lógicos y algorítmicos.
+
+Intereses y motivaciones: Entender conceptos abstractos a través de ejemplos prácticos y cotidianos que puedan aplicar de inmediato para resolver problemas cotidianos y estructurar mejor sus decisiones.
+
+Posibles barreras: Temor a la tecnología o a los términos técnicos complejos (código, sintaxis), lo que requiere un enfoque totalmente alejado del código tradicional de computadora.
+
+Estrategia de Adaptación del Mensaje
+Enfoque analógico: Uso exclusivo de metáforas y situaciones de la vida diaria (como decidir qué ropa ponerse según el clima, seguir una receta de cocina o elegir una ruta de transporte) para explicar las estructuras de control (secuenciales, condicionales y repetitivas).
+
+Lenguaje accesible: Evitar tecnicismos innecesarios. En caso de utilizar términos técnicos indispensables, definirlos de manera inmediata con palabras sencillas.
+
+Interactividad y ejemplos visuales: Fomentar la participación activa mediante preguntas detonantes que conecten la experiencia personal del público con la lógica de programación.
+
+Ritmo progresivo: Avanzar desde conceptos simples y cotidianos hacia estructuras ligeramente más complejas, asegurando la comprensión en cada etapa antes de pasar a la siguiente.
+
+Autoevaluación de la conferencia por medio de un FODA (Dennis)
+Fortalezas
+Claridad en la exposición de los conceptos, logrando conectar de manera efectiva la teoría de las estructuras de control con situaciones cotidianas y fáciles de entender para la audiencia.
+
+Dominio del tema y seguridad al momento de explicar y responder dudas relacionadas con el perfil del público.
+
+Buena gestión del tiempo asignado para la sección, manteniendo un ritmo dinámico y constante.
+
+Oportunidades
+Incorporar más recursos visuales interactivos (como encuestas en vivo o dinámicas rápidas) para aumentar el nivel de participación de la audiencia desde el inicio.
+
+Profundizar en ejemplos específicos solicitados por los asistentes durante la sesión de preguntas y respuestas.
+
+Debilidades
+Al inicio de la presentación, los nervios afectaron ligeramente la fluidez de la introducción antes de entrar de lleno en los ejemplos principales.
+
+Dependencia moderada de las notas de apoyo visuales en momentos clave de la transición entre subtemas.
+
+Amenazas
+Posibles distracciones del entorno o fallas técnicas imprevistas que pudieran desconectar a la audiencia del hilo conductor de la analogía cotidiana.
+
+Variabilidad en el nivel de atención o fatiga del público conforme avanzaba la duración total de la capacitación.
 
 ## Estructura de la Capacitación
 
