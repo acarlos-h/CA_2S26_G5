@@ -6,7 +6,12 @@
 
 ## Objetivos  
 
+# Objetivos Generales  
+
+# Objetivos específicos  
+
 ## Descripción general del tema y subtemas elegido  
+
 
 ## Autoevaluación de la conferencia por medio de un FODA  
 
