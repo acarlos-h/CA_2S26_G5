@@ -1,6 +1,19 @@
 # Informe Final  
 
 ## Portada  
+**Curso:** Comunicación Asertiva - Sección A  
+**Universidad:** Universidad de San Carlos de Guatemala  
+**Facultad:** Facultad de Ingeniería (FIUSAC)  
+**Escuela:** Escuela de Ingeniería en Ciencias y Sistemas (ECYS)  
+**Auxiliar**: Kevin Josue Santos Salazar  
+**Integrantes:**  
+| No. | Nombre                               | Carnet    |
+|:---:|:------------------------------------:|:---------:|
+| 1   | Carlos Arnulfo Hidalgo Huertas       | 202504198 |
+| 2   | Hassan Alfredo Antony López Guarchaj | 202500233 |
+| 3   | Naomi Rocio Axpuac Velásquez         | 202505830 |
+| 4   | Dennis Alexander Payes Yanes         | 202505798 |
+| 5   | Aimar Emmanuel Barrios Gozalez       | 202502967 |  
 
 ## Introducción  
 La lógica de programación suele imaginarse como un tema complejo, lleno de códigos indescifrables y matemáticas avanzadas. Sin embargo, en su nivel más básico, no es más que una forma ordenada de pensar y resolver problemas. Todos los días, de forma casi automática, las personas seguimos pasos lógicos para tomar decisiones o cumplir con nuestras rutinas: desde decidir qué ruta tomar para ir a estudiar, hasta reaccionar cuando algo no sale como esperábamos.
