@@ -101,6 +101,13 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 ## Autoevaluación de la conferencia por medio de un FODA  
 
 ## FODA por integrante  
+* **FODA 3 (Naomi):**
+
+| **FORTALEZAS** | **OPORTUNIDADES**  |
+| :--- | :--- |
+| **1. Dominio técnico y simplificación:** Comprendo a fondo las estructuras de control por mi formación en ingeniería y tengo la capacidad de traducirlas a ejemplos cotidianos (redes sociales, videojuegos) para jóvenes de 15 a 17 años.<br><br>**2. Comunicación asertiva y control de aula:** Poseo claridad de expresión y diseñé dinámicas para ejecutar desde los escritorios, lo que me permite guiar la actividad con orden y buena voz. | **1. Desarrollo de oratoria:** El taller me brinda el espacio ideal para perder el miedo escénico y afinar mis habilidades de comunicación al hablar frente a grupos.<br><br>**2. Fortalecimiento de portafolio:** Me permite documentar esta experiencia como evidencia de mi capacidad para planificar y ejecutar capacitaciones técnicas. |
+| **DEBILIDADES** | **AMENAZAS** |
+| **1. Preferencia por el guion estructurado:** Me siento muy cómoda cuando todo sigue la estructura que planifiqué, por lo que las desviaciones inesperadas en la dinámica pueden generarme un momento de duda antes de redirigir la sesión.<br><br>**2. Nerviosismo inicial:** Suelo sentir tensión durante los primeros minutos de la presentación, lo que puede llevarme a hablar más rápido de lo planificado. | **1. Apatía o timidez de la audiencia:** Encontrarme con un grupo reservado o desmotivado que muestre resistencia a participar o responder las preguntas.<br><br>**2. Distractores o imprevistos de horario:** Ruidos externos en el colegio o retrasos en la agenda que reduzcan el tiempo total de mi exposición. |
 
 ## FODA como grupo  
 
@@ -114,7 +121,7 @@ Y todo ese día se puede dividir en partes: llegar, entrar a clase, hacer examen
 | Integrante     | Aporte                                                           | Porcentaje |
 | -------------- | ---------------------------------------------------------------- | ---------- |
 | Carlos Hidalgo |                                                                  | 20%        |
-| Naomi Axpuac   |                                                                  | 20%        |
+| Naomi Axpuac   | Explicación del tema de ciclos.                                  | 20%        |
 | Aimar Barrios  |                                                                  | 20%        |
 | Dennis Payes   |                                                                  | 20%        |
 | Hassan López   | Presentación del grupo, subida de videos, obtención de cañonera. | 20%        |
