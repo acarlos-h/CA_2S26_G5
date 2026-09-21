@@ -6,6 +6,30 @@
 
 ## Una lista preliminar de subtemas a desarrollar
 
+### Introducción y Toma de Decisiones Básico  
+Condicional simples if “Si se cumple la condición se ejecuta la acción”  
+Condicional compuesta if - else o si - entonces  
+OPERADORES AND, OR NOT  
+
+### Toma de Decisiones Complejas  
+Condicionales anidadas  
+El Puente al Switch  
+Selección múltiple (Switch/Case)  
+
+### Bucles For, While y Errores de Bucle  
+Bucle for  
+Bucle while  
+Bucle infinito  
+
+### Evaluación Posterior y Flujo Real 
+Condición al final (Do-While)  
+Manejo de Eventos e Interrupciones   
+
+### Modularización y Conclusión  
+Funciones, Modularidad y Ámbito  
+Integración de todo en una rutina diaria  
+Manejo de Errores y Excepciones 
+
 ## Cronograma de duración de cada sección de la capacitación (Rundown)
 | Integrante   | Subtema                                  | Contenido                                                                                                                                    | Ejemplos                                                       | Tiempo |
 | ------------ | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------ |
