@@ -177,9 +177,9 @@ Variabilidad en el nivel de atención o fatiga del público conforme avanzaba la
 ## FODA como grupo  
 | **FORTALEZAS** | **OPORTUNIDADES**  |
 | :--- | :--- |
-| <br><br> | <br><br> |
+|-Buena coordinación con los miembros del grupo para reunirnos deforma adecuada. <br><br> -Cada miembro tenía a disposición sus definiciones para presentar de manera propia su subtema.  |-Reuniones virtuales que facilitaron la organización de la presentación. <br><br> -Poder ir en grupos juntos al establecimiento, de manera que no dependía de cada uno llegar por cuenta propia al lugar ya que estaba coordinado.|
 | **DEBILIDADES** | **AMENAZAS** |
-| <br><br> | <br><br> |
+|-Trabajo de último momento para la realización de la documentación del proyecto que falla en la organización del tiempo. <br><br> -Equipo de audio con múltiples fallas que impedían que se lograra escuchar bien, todo por errores al manejar los microfonos de la presentación. |-Tráfico intenso para llegar al establecimiento donde sería la presentación. <br><br> -La dificultad de hallar un equipo para la presentación, en este caso la cañonera, que fue complicada de dar con una para poder presentar.|
 
 
 # Conclusiones
