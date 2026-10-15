@@ -60,6 +60,7 @@ time.is/es/Guatemala para validar cuándo se inició la planificación.
 
 **Pitch NO.03 - Aimar Barrios**
 <img width="1200" height="2652" alt="Image" src="https://github.com/user-attachments/assets/4a1cbc90-5c3c-44bf-9d69-eb8ab5638975" />
+**Descripción:** Captura de pantalla,hora y fecha correspondiente al momento de subir el pich individual.
 
 **Pitch NO.05 - Carlos Hidalgo**  
 
