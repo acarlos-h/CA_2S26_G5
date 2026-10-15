@@ -22,7 +22,10 @@ Entrevista realizada en una librería localizada  por Hassan y Carlos. El audio 
 ### Imagen 
 
 ![Fotografía del segundo negocio](media/20261005_115130.jpg)
-## Grupo 5 completo Integrantes  Carlos, Hassan, Naomi, Dennis, Aimar.
+
+## EVIDENCIAS CON TIME.IS
+
+### Grupo 5 completo Integrantes  Carlos, Hassan, Naomi, Dennis, Aimar.
 **Grabacion**
 Negociacion sobre propuestas a soluciones de lo que necesita don Rony en su negocio de taller de mecanica automotriz (autosemec).
 Product Manager (Agresivo/Dominante) Carlos 
@@ -43,13 +46,15 @@ Reto: Lograr acuerdos tipo “win-win” y asegurar que todos los puntos de vist
 **Foto evidencia**
 "<img width="1280" height="720" alt="WhatsApp Image 2026-10-14 at 5 07 37 PM" src="https://github.com/user-attachments/assets/3fcd904b-17b7-49f8-9696-3de905782735" />"
 
-###EVIDENCIAS CON TIME.IS
-
-##CAPTURAS DE LOS PITCHS
 
 
+## CAPTURAS DE LOS PITCHS
 
 
+**Pitch NO.02 - Naomi Axpuac**
+<img width="1515" height="735" alt="Prueba Hora de subida del Pitch" src="https://github.com/user-attachments/assets/87a80c76-a031-4947-9ad8-ffaceca5af75" />
+**Descripción:** captura de pantalla tomada el 05/10/2026 a las , donde se ve el pitch individual recién subido s YouTube junto con la hora oficial de
+time.is/es/Guatemala para validar cuándo se inició la planificación.
 
 **Pitch NO.03 - Aimar Barrios**
 <img width="1200" height="2652" alt="Image" src="https://github.com/user-attachments/assets/4a1cbc90-5c3c-44bf-9d69-eb8ab5638975" />
