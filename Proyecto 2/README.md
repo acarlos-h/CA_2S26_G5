@@ -8,23 +8,23 @@ debate técnico enfocado en la resolución de conflictos y la comunicación aser
 ## Estructura del Repositorio
 
 Proyecto 2/
-├── 01-Recoleccion_de_informacion/
-│   ├── media/
-│   ├── Evidencias.md
-│   ├── Justificacion.md
-│   └── Preguntas.md
-├── 02-Analisis/
-│   ├── Flujo_de_negocio.md
-│   └── Requisitos.md
-├── 03-Propuestas/
-│   ├── Acuerdos_tradeoffs.md
-│   ├── Documento_postmortem.md
-│   ├── Elevator_pitch.md
-│   ├── Flujo_Solucion.md
-│   └── Junta_directiva.md
-├── 04-Tabla_de_participacion/
-│   └── Participacion.md
-└── README.md
+├── 01-Recoleccion_de_informacion/  
+│   ├── media/  
+│   ├── Evidencias.md  
+│   ├── Justificacion.md  
+│   └── Preguntas.md  
+├── 02-Analisis/  
+│   ├── Flujo_de_negocio.md  
+│   └── Requisitos.md  
+├── 03-Propuestas/  
+│   ├── Acuerdos_tradeoffs.md  
+│   ├── Documento_postmortem.md  
+│   ├── Elevator_pitch.md  
+│   ├── Flujo_Solucion.md  
+│   └── Junta_directiva.md  
+├── 04-Tabla_de_participacion/  
+│   └── Participacion.md  
+└── README.md  
 
 ## Enlace al Sitio Web:  
 Colocar el enlace final de la documentación publicada en Docusaurus 
