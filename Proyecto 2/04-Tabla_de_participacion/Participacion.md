@@ -3,7 +3,7 @@
 
 | Integrante     | Aporte                                                                                                                           | Porcentaje |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------| ---------- |
-| Carlos Hidalgo |                                                                                                                                  | 20% |
+| Carlos Hidalgo |Product Manager, Recolección de información, 2da. parte Documento postmortem, Junta directiva, Issue, Pitch individual, Propuesta 1 en video, Readme, Buscar negocio para entrevistar, edicion de video, Docusaurus, GitHub Pages   | 20% |
 | Naomi Axpuac   | QA/Auditora, Flujo de Solución, Issues, Pitch Individual, Propuesta 2 (Propuesta 4 en video), Conseguir Persona con Negocio      | 20% |
 |                | Para Entrevistar, Grabación del Video                                                                                            |     |
 | Aimar Barrios  |                                                                                                                                  | 20% |
