@@ -64,6 +64,10 @@ time.is/es/Guatemala para validar cuándo se inició la planificación.
 <img width="1200" height="2652" alt="Image" src="https://github.com/user-attachments/assets/4a1cbc90-5c3c-44bf-9d69-eb8ab5638975" />
 **Descripción:** Captura de pantalla,hora y fecha correspondiente al momento de subir el pich individual.
 
+**Pitch NO.04 - Hassan López**  
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/f23859cd-a2ca-402c-9707-ea6be48ac3b3" />  
+**Descripción:** Captura de pantalla con fecha y hora de la subida del video junto la hora oficial.  
+
 **Pitch NO.05 - Carlos Hidalgo**  
 
 <img width="959" height="572" alt="Prueba Pitch" src="https://github.com/user-attachments/assets/effeff58-6ff1-4b50-830d-69206f080c71" />  
