@@ -50,12 +50,10 @@ Reto: Lograr acuerdos tipo “win-win” y asegurar que todos los puntos de vist
 
 
 ## CAPTURAS DE LOS PITCHS
-**Pitch NO.01 - Dennis Payes**
-
-<img width="607" height="1080" alt="WhatsApp Image 2026-10-14 at 10 33 44 PM" src="https://github.com/user-attachments/assets/a4d72082-3d73-4bcb-9255-b9b21ac8928c" />
-**Descripción:** screenshoot tomada el 05/10/2026 a las 9:17 pm, donde se ve el pitch individual en proceso de subida a YouTube junto con la hora oficial de
+**Pitch NO.01 - Dennis Payes****Descripción:** screenshoot tomada el 05/10/2026 a las 9:17 pm, donde se ve el pitch individual en proceso de subida a YouTube junto con la hora oficial de
 time.is/es/Guatemala.
 
+<img width="607" height="1080" alt="WhatsApp Image 2026-10-14 at 10 33 44 PM" src="https://github.com/user-attachments/assets/a4d72082-3d73-4bcb-9255-b9b21ac8928c" />
 
 **Pitch NO.02 - Naomi Axpuac**
 <img width="1515" height="735" alt="Prueba Hora de subida del Pitch" src="https://github.com/user-attachments/assets/87a80c76-a031-4947-9ad8-ffaceca5af75" />
