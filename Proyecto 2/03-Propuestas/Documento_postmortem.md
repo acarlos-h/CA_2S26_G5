@@ -69,3 +69,50 @@ La combinación de los tres conflictos consumió una semana y media que debió h
 
 Impacto indirecto sobre la confianza:
 Si los conflictos no se hubieran abordado abiertamente en la junta de emergencia del miércoles, el equipo habría salido con acuerdos frágiles basados en suposiciones. La falta de claridad en la comunicación del cliente, combinada con expectativas de velocidad poco realistas y un alcance en crecimiento, habría generado incumplimientos en las primeras entregas, erosionando la confianza tanto dentro del equipo como con don Rony. El taller habría terminado con un sistema a medias que nadie usaría, confirmando el temor de Naomi: "Un sistema perfecto que nadie usa es un sistema fallido."
+
+---
+
+## 4. Causa raíz (Técnica de los 5 porqués)
+
+El problema inicial: El equipo tardó una semana y media en llegar a un acuerdo sobre el alcance y el presupuesto del sistema para Autosemec, generando tensión, discusiones agresivas y retrasos en el calendario de desarrollo.
+
+¿Por qué el equipo tardó tanto en llegar a un acuerdo y hubo tanta tensión?
+Porque había una discusion sobre presupuestos irreales (Q7,000 y Q8,500) y exigencias de tiempo imposibles (cuatro semanas para 5 módulos completos), sin saber qué funciones descartar.
+
+¿Por qué discutían sobre presupuestos irreales sin saber qué funciones descartar?
+Porque no conocían el tope máximo real de dinero que don Rony podía pagar ni sus prioridades fundamentales.
+
+¿Por qué no conocían el tope máximo real de dinero ni las prioridades?
+Porque Aimar, quien actuaba como enlace con el cliente, respondía de forma ambigua ("lo que ustedes digan", "ustedes son los expertos") y no comunicaba las limitantes reales.
+
+¿Por qué Aimar se comunicaba de forma ambigua y no daba los datos reales?
+Porque el equipo no estableció desde el inicio reglas estrictas de comunicación ni un proceso formal de recolección de requisitos donde el cliente tuviera que firmar o aprobar un documento de límites y alcance.
+
+¿Por qué no se establecieron esas reglas formales al inicio?
+(Causa Raíz): Falla técnica y de procesos en la gestión inicial. El equipo arrancó la planificación de soluciones basándose únicamente en suposiciones técnicas individuales, sin validar formalmente los límites del negocio (presupuesto y capacidades del usuario) como primer paso obligatorio, lo que provocó que trabajaran a ciegas y permitió que la falta de asertividad en la comunicación desviara el enfoque del proyecto.
+
+---
+
+## 5. Acciones tomadas para solucionarlo
+
+Durante el momento crítico del incidente (cuando la tensión entre tiempo y calidad amenazaba con disolver el equipo), se aplicaron las siguientes mitigaciones para poder llegar a un acuerdo:
+
+Intervención de mediación en tiempo real: Dennis intervino directamente en la discusión más crítica para frenar el choque personal entre Carlos y el equipo técnico, obligando a replantear la comunicación bajo la regla de "separar a la persona del problema".
+
+Convocatoria de una junta de emergencia: Se detuvo inmediatamente todo el desarrollo individual y se convocó una junta directiva de carácter obligatorio para alinear visiones.
+
+Confrontación directa de requisitos: Durante la junta, se presionó al enlace del cliente (Aimar) para que revelara el presupuesto real, confirmando el tope de Q6,000, lo que detuvo inmediatamente las discusiones sobre propuestas inviables.
+
+Negociación de Trade-Offs (Parche al calendario): Se aplicó un cambio drástico en el flujo de trabajo pasando de un modelo de "entrega total" a uno de "fases divisibles", acordando una primera fase de 6 semanas por Q5,800, con pruebas cada 2 semanas para no sacrificar calidad.
+
+---
+
+## 6. Acciones a futuro
+
+Implementación de un "Registro de Requisitos Firmada": Antes de diseñar cualquier solución, el cliente deberá firmar un documento de restricciones que incluya el presupuesto máximo, el tiempo límite y las 3 funciones prioritarias innegociables. Ningún desarrollador comenzará a trabajar sin este documento.
+
+Sistema de Control de Cambios Estricto: Toda solicitud de nueva funcionalidad (como ocurrió con el módulo de ventas y facturas) entrará a una bitácora de revisión técnica. Ningún requerimiento nuevo se aceptará verbalmente; deberá pasar por un análisis de impacto en tiempo/costo antes de ser aprobado o rechazado.
+
+Señales de Alerta Preventivas (Monitoreo del Proyecto): Se programarán revisiones semanales obligatorias (alertas). Si el presupuesto consumido llega a Q5,500 antes de la semana 5, o si una entrega no supera las pruebas de calidad, el trabajo se detiene y se convoca una reunión de emergencia en 48 horas.
+
+Pruebas en Paralelo Institucionalizadas: El flujo de trabajo del equipo adoptará oficialmente la metodología de pruebas simultáneas; el equipo de calidad testeará cada submódulo mientras se desarrolla el siguiente, evitando así los cuellos de botella al final del ciclo.
