@@ -32,3 +32,8 @@
 
 **Descripción:**Mi propuesta de mejora dirigida al taller mecánico a Don Rony; propietario del taller Auto Sen corresponde a un Expdiente Digital. Especializado en guardar al cliente por nombre y placa junto  su número de contacto , en una pequeña base de datos para que pueda registrar que hace dia a dia con el auto del cliente, de esta forma llevar un registro de los cambios que  hizo al auto, que piezas nuevas coloco y  de que marca eran, y que dia lo realizó. También que nuestro proyecto ofrezca la oportunidad de exportar dicho informe   en formato digital para0 compartirlo con el cliente  logrando asi tener mayor profesionalismo y confanza con los que usan el servicio del taller.
 
+## Propuesta No.05 - Carlos Hidalgo   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ntNc6KdX6So?si=DJL2qGliMf_4yFnn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+**Descripción:** Este elevator pitch es dirigido a la dueña Alejandra de la librería "Toothless", recomendando algunas soluciones que pueden ayudarle a largo plazo en su negocio respecto a los precios de los útiles escolares utilizando una aplicación que tiene un registro y se actualiza en todo el sistema al momento de modificar y teniendo un apartado donde se pueda visualizar, que es lo que más vende y tener una mayor variedad respecto a los datos que nos de ese registro de las ventas. 
