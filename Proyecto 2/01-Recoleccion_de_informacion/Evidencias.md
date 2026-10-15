@@ -44,7 +44,8 @@ Scrum Master / Mediador (Asertivo) Dennis
 Actúa como facilitador de la reunión. Su objetivo es mantener el orden, dar la palabra y promover una comunicación efectiva entre los participantes.
 Reto: Lograr acuerdos tipo “win-win” y asegurar que todos los puntos de vista sean escuchados.
 **Foto evidencia**
-"<img width="1280" height="720" alt="WhatsApp Image 2026-10-14 at 5 07 37 PM" src="https://github.com/user-attachments/assets/3fcd904b-17b7-49f8-9696-3de905782735" />"
+"<img width="1080" height="607" alt="WhatsApp Image 2026-10-14 at 5 07 37 PM" src="https://github.com/user-attachments/assets/faf5e0c7-982b-4c2b-87c8-b16c2a447daf" />
+"
 
 
 
