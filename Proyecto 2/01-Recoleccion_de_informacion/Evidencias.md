@@ -54,7 +54,7 @@ Reto: Lograr acuerdos tipo “win-win” y asegurar que todos los puntos de vist
 
 **Pitch NO.02 - Naomi Axpuac**
 <img width="1515" height="735" alt="Prueba Hora de subida del Pitch" src="https://github.com/user-attachments/assets/87a80c76-a031-4947-9ad8-ffaceca5af75" />
-**Descripción:** captura de pantalla tomada el 05/10/2026 a las , donde se ve el pitch individual recién subido s YouTube junto con la hora oficial de
+**Descripción:** captura de pantalla tomada el 05/10/2026, donde se ve el pitch individual recién subido s YouTube junto con la hora oficial de
 time.is/es/Guatemala para validar cuándo se inició la planificación.
 
 **Pitch NO.03 - Aimar Barrios**
@@ -66,7 +66,11 @@ time.is/es/Guatemala para validar cuándo se inició la planificación.
 
 **Descripción:** Captura de pantalla tomada el 05/10/2026, donde se ve el pitch individual subido a YouTube junto con la hora de la pagina time.is/es/Guatemala para validar la fecha de publicación de video.
 
-## CAPTURAS DE LOS Trellos
+## CAPTURAS DE TRELLO
+
+<img width="1515" height="734" alt="Trello 2" src="https://github.com/user-attachments/assets/eb3584fd-86ef-4883-be93-3b9c748a4a8c" />
+**Descripción:** captura de pantalla tomada el 11/10/2026, donde se ve el tablero de Trello recién creado junto con la hora oficial de time.is/es/Guatemala, para validar cuándo se inició la planificación.
+
 
 
 
