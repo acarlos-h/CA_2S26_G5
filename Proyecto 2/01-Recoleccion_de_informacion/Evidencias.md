@@ -50,7 +50,7 @@ Reto: Lograr acuerdos tipo “win-win” y asegurar que todos los puntos de vist
 
 
 ## CAPTURAS DE LOS PITCHS
-**Pitch NO.01 - Dennis Payes****Descripción:** screenshoot tomada el 05/10/2026 a las 9:17 pm, donde se ve el pitch individual en proceso de subida a YouTube junto con la hora oficial de
+**Pitch NO.01 - Dennis Payes** **Descripción:** screenshoot tomada el 05/10/2026 a las 9:17 pm, donde se ve el pitch individual en proceso de subida a YouTube junto con la hora oficial de
 time.is/es/Guatemala.
 
 <img width="607" height="1080" alt="WhatsApp Image 2026-10-14 at 10 33 44 PM" src="https://github.com/user-attachments/assets/a4d72082-3d73-4bcb-9255-b9b21ac8928c" />
