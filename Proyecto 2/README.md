@@ -31,4 +31,23 @@ Colocar el enlace final de la documentación publicada en Docusaurus
 (GitHub Pages), ya que por ahí se evaluará el proyecto. 
 
 ## Listado del Equipo:  
-Los nombres de los integrantes (Carlos, Hassan, Naomi, Dennis y Aimar) 
+### Grupo 5 completo Integrantes  Carlos, Hassan, Naomi, Dennis, Aimar.
+**Grabacion**
+Negociacion sobre propuestas a soluciones de lo que necesita don Rony en su negocio de taller de mecanica automotriz (autosemec).
+Product Manager (Agresivo/Dominante) Carlos 
+Se enfoca en el cumplimiento de fechas, costos y objetivos de negocio. Tiende a presionar al equipo para entregar lo antes posible. Reto: Transformar una comunicación agresiva en una comunicación firme pero respetuosa, defendiendo sus intereses sin afectar la relación con el equipo.
+ 
+Tech Lead / Arquitecto (Racional/Técnico) Hassan
+Prioriza la calidad del producto, la arquitectura y las buenas prácticas de desarrollo. Se opone a entregar soluciones incompletas o de bajo nivel. Reto: Negociar con flexibilidad sin comprometer la calidad crítica del sistema.
+ 
+Cliente / Stakeholder (Pasivo-Agresivo) Aimar
+Representa al cliente o usuario final. Puede cambiar requerimientos, mostrar inconformidades indirectas o falta de claridad en sus necesidades. Reto: Expresar necesidades de forma clara y reducir ambigüedades en los requerimientos
+ 
+QA / Auditor (Analítico/Obstinado) Naomi
+Se enfoca en identificar errores, riesgos y problemas. Tiende a rechazar entregas que no cumplen estándares. Reto: No limitarse únicamente a señalar fallas, sino también proponer soluciones viables
+ 
+Scrum Master / Mediador (Asertivo) Dennis
+Actúa como facilitador de la reunión. Su objetivo es mantener el orden, dar la palabra y promover una comunicación efectiva entre los participantes.
+Reto: Lograr acuerdos tipo “win-win” y asegurar que todos los puntos de vista sean escuchados.
+**Foto evidencia**
+"<img width="1280" height="720" alt="WhatsApp Image 2026-10-14 at 5 07 37 PM" src="https://github.com/user-attachments/assets/3fcd904b-17b7-49f8-9696-3de905782735" />"
