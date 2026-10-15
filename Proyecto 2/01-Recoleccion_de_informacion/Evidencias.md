@@ -71,6 +71,38 @@ time.is/es/Guatemala para validar cuándo se inició la planificación.
 <img width="1515" height="734" alt="Trello 2" src="https://github.com/user-attachments/assets/eb3584fd-86ef-4883-be93-3b9c748a4a8c" />
 **Descripción:** captura de pantalla tomada el 11/10/2026, donde se ve el tablero de Trello recién creado junto con la hora oficial de time.is/es/Guatemala, para validar cuándo se inició la planificación.
 
+## CAPTURAS DE LOS PITCHS
+
+
+**Pitch NO.02 - Naomi Axpuac**
+<img width="1515" height="735" alt="Prueba Hora de subida del Pitch" src="https://github.com/user-attachments/assets/87a80c76-a031-4947-9ad8-ffaceca5af75" />
+**Descripción:** captura de pantalla tomada el 05/10/2026 a las , donde se ve el pitch individual recién subido s YouTube junto con la hora oficial de
+time.is/es/Guatemala para validar cuándo se inició la planificación.
+
+**Pitch NO.03 - Aimar Barrios**
+<img width="1200" height="2652" alt="Image" src="https://github.com/user-attachments/assets/4a1cbc90-5c3c-44bf-9d69-eb8ab5638975" />
+
+**Pitch NO.05 - Carlos Hidalgo**  
+
+<img width="959" height="572" alt="Prueba Pitch" src="https://github.com/user-attachments/assets/effeff58-6ff1-4b50-830d-69206f080c71" />  
+
+**Descripción:** Captura de pantalla tomada el 05/10/2026, donde se ve el pitch individual subido a YouTube junto con la hora de la pagina time.is/es/Guatemala para validar la fecha de publicación de video.
+
+## CAPTURAS DE LOS TRELLOS
+
+<img width="957" height="535" alt="Trello Proyecto 2" src="https://github.com/user-attachments/assets/93384aab-5acf-4086-ae00-3f092ecfb3c3" />  
+**Descripción:** Captura de pantalla tomada el 10/10/2026, donde se ve la creación del trello junto con la hora de la pagina time.is/es/Guatemala
+
+<img width="959" height="568" alt="Trello 1 Proyecto 2" src="https://github.com/user-attachments/assets/efc3d478-7006-4bd6-84c3-048c8fed7197" />  
+**Descripción:** Captura de pantalla tomada el 10/10/2026, donde se ve la distribución de tareas junto con la hora de la pagina time.is/es/Guatemala
+
+<img width="959" height="540" alt="Cap trello 3" src="https://github.com/user-attachments/assets/8149fb8a-3471-4d49-8995-13530ed42a72" />  
+**Descripción:** Captura de pantalla tomada el 13/10/2026, donde se ve la distribución de avance de tareas junto con la hora de la pagina time.is/es/Guatemala
+
+<img width="1279" height="761" alt="Cap trello 4" src="https://github.com/user-attachments/assets/23e20d3c-b3d7-4400-bd0d-d35ee61aa040" />  
+**Descripción:** Captura de pantalla tomada el 14/10/2026, donde se ve la distribución de avances finales de tareas junto con la hora de la pagina time.is/es/Guatemala
+
+
 
 
 
