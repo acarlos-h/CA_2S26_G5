@@ -67,12 +67,6 @@ time.is/es/Guatemala para validar cuándo se inició la planificación.
 
 **Descripción:** Captura de pantalla tomada el 05/10/2026, donde se ve el pitch individual subido a YouTube junto con la hora de la pagina time.is/es/Guatemala para validar la fecha de publicación de video.
 
-## CAPTURAS DE TRELLO
-
-<img width="1515" height="734" alt="Trello 2" src="https://github.com/user-attachments/assets/eb3584fd-86ef-4883-be93-3b9c748a4a8c" />  
-
-**Descripción:** captura de pantalla tomada el 11/10/2026, donde se ve el tablero de Trello recién creado junto con la hora oficial de time.is/es/Guatemala, para validar cuándo se inició la planificación.
-
 ## CAPTURAS DE LOS TRELLOS
 
 <img width="957" height="535" alt="Trello Proyecto 2" src="https://github.com/user-attachments/assets/93384aab-5acf-4086-ae00-3f092ecfb3c3" />  
