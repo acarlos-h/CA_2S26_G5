@@ -7,7 +7,7 @@ debate técnico enfocado en la resolución de conflictos y la comunicación aser
 
 ## Estructura del Repositorio
 
-Proyecto 2/
+Proyecto 2/  
 ├── 01-Recoleccion_de_informacion/  
 │   ├── media/  
 │   ├── Evidencias.md  
