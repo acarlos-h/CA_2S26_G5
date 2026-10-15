@@ -1,4 +1,18 @@
 
+## Propuesta No.01 - Dennis
+
+<iframe
+  width="560"
+  height="315"
+  src="https://youtube.com/shorts/0RpXXgcO83g?feature=share"
+  title="Elevator pitch - Dennis"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
+
+**Descripción:** En este elevator pitch, dirigido a Don Rony Payes, dueño de Autosemec, se presenta el problema principal de su taller: toda la información del negocio depende de su memoria, de stickers pegados en los carros y de llamadas telefónicas sin respaldo. Pierde horas buscando repuestos en varios proveedores, los presupuestos se dan de palabra sin que quede nada por escrito, no hay forma de saber cuántos carros caben en el taller ni cuándo sale cada uno, y si pierde el teléfono lo pierde todo. La solución propuesta es un asistente móvil centralizado con botones grandes que se pueden tocar con una sola mano aunque esté sucia, donde don Rony abre una sola aplicación y desde ahí accede a todo: el expediente digital de cada carro y cliente, la lista de repuestos con proveedor, precio y estado, el presupuesto claro con un botón que prepara el mensaje listo para enviar al cliente, y una agenda simple con control de espacio y hora estimada de salida. Todo integrado en un solo lugar, como tener un solo cuaderno en vez de cinco. Se entrega en seis semanas con entregas parciales cada dos semanas por un costo de Q5,800, dentro del presupuesto del cliente, e incluye capacitación presencial y un mes de soporte por mensaje.
+
 ## Propuesta No.03 - Aimar Barrios 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GBP-WNgCfjA?si=jT8DyuDg8pxNXIDC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
