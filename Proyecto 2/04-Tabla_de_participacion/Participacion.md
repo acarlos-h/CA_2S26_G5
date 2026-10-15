@@ -7,6 +7,5 @@
 | Naomi Axpuac   | QA/Auditora, Flujo de Solución, Issues, Pitch Individual, Propuesta 2 (Propuesta 4 en video), Conseguir Persona con Negocio      | 20% |
 |                | Para Entrevistar, Grabación del Video                                                                                            |     |
 | Aimar Barrios  |                                                                                                                                  | 20% |
-| Dennis Payes   |SCRUM MASTER, ACUERDOS TRADEOFFS, ISSUE, PITCH, PROPUESTA 1 (PROPUESTA 5 EN VIDEO), CONSEGUIR PERSONA CON NEGOCIO A ENTREVISTAR) Subida de video a Youtube  
-                                                                                                                                                    | 20% |
+| Dennis Payes   |SCRUM MASTER, ACUERDOS TRADEOFFS, ISSUE, PITCH, PROPUESTA 1 (PROPUESTA 5 EN VIDEO), CONSEGUIR PERSONA CON NEGOCIO A ENTREVISTAR) Subida de video a Youtube.                                                                                                                                            | 20% |
 | Hassan López   |                                                                                                                                  | 20% |
