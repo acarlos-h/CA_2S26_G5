@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://acarlos-h.github.io/CA_2S26_G5/blog</id>
-    <title>My Site Blog</title>
+    <title>Autosemec - Proyecto 2 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://acarlos-h.github.io/CA_2S26_G5/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Autosemec - Proyecto 2 Blog</subtitle>
     <icon>https://acarlos-h.github.io/CA_2S26_G5/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
