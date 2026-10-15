@@ -43,7 +43,16 @@ Reto: Lograr acuerdos tipo “win-win” y asegurar que todos los puntos de vist
 **Foto evidencia**
 "<img width="1280" height="720" alt="WhatsApp Image 2026-10-14 at 5 07 37 PM" src="https://github.com/user-attachments/assets/3fcd904b-17b7-49f8-9696-3de905782735" />"
 
+###EVIDENCIAS CON TIME.IS
 
+##CAPTURAS DE LOS PITCHS
+
+
+
+
+
+**Pitch NO.03 - Aimar Barrios**
+<img width="1200" height="2652" alt="Image" src="https://github.com/user-attachments/assets/4a1cbc90-5c3c-44bf-9d69-eb8ab5638975" />
 
 
 
