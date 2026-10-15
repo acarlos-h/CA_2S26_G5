@@ -59,6 +59,13 @@ time.is/es/Guatemala para validar cuándo se inició la planificación.
 **Pitch NO.03 - Aimar Barrios**
 <img width="1200" height="2652" alt="Image" src="https://github.com/user-attachments/assets/4a1cbc90-5c3c-44bf-9d69-eb8ab5638975" />
 
+**Pitch NO.05 - Carlos Hidalgo**  
+
+<img width="959" height="572" alt="Prueba Pitch" src="https://github.com/user-attachments/assets/effeff58-6ff1-4b50-830d-69206f080c71" />  
+
+**Descripción:** Captura de pantalla tomada el 05/10/2026, donde se ve el pitch individual subido a YouTube junto con la hora de la pagina time.is/es/Guatemala para validar la fecha de publicación de video.
+
+## CAPTURAS DE LOS Trellos
 
 
 
