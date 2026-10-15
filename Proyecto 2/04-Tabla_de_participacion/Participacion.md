@@ -8,4 +8,5 @@
 |                | Para Entrevistar, Grabación del Video                                                                                            |     |
 | Aimar Barrios  |                                                                                                                                  | 20% |
 | Dennis Payes   |SCRUM MASTER, ACUERDOS TRADEOFFS, ISSUE, PITCH, PROPUESTA 1 (PROPUESTA 5 EN VIDEO), CONSEGUIR PERSONA CON NEGOCIO A ENTREVISTAR)  | 20% |
+|                |Subida de video a Youtube                                                                                                         |     |
 | Hassan López   |                                                                                                                                  | 20% |
