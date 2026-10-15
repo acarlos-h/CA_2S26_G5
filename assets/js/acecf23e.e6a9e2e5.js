@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmi_documentacion=self.webpackChunkmi_documentacion||[]).push([["3220"],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/CA_2S26_G5/blog","blogTitle":"Blog","authorsListPath":"/CA_2S26_G5/blog/authors"}')}}]);
